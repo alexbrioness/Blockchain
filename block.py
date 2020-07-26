@@ -26,7 +26,7 @@ class Block:
     def genesis_block():
         return Block("0","0","0",datetime.datetime.now())
 
-    # The function get hash is the function which will encrypt the blocks information and generate a hash for that block. for more documentation on the hashlib library visit https://docs.python.org/3.7/library/hashlib.html#creating-hash-objects
+    # The function get hash is the function which will encrypt the blocks information and generate a hash for that block. for more documentation on the hashlib  library visit https://docs.python.org/3.7/library/hashlib.html#creating-hash-objects
 
     def get_hash(self):
 
