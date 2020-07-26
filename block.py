@@ -1,4 +1,4 @@
-#This Code looks to simplify the basic idea behind programing a block from the blockchain in python, it is just a simple representation to help with the understanding of the technology
+# This Code looks to simplify the basic idea behind programing a block from the blockchain in python. It is just a simple representation to help with the understanding of the technology
 
 # 1) You will need to import hashlib´s Library to encrypt the blocks data
 
