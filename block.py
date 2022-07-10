@@ -3,6 +3,7 @@
 # 1) You will need to import hashlib´s Library to encrypt the blocks data
 
 # 2) You will also want to import the libary datetime to create a date stamp on each block
+x = 5 
 import hashlib
 import datetime
 
